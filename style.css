@@ -1,0 +1,15 @@
+
+* {
+    /* outline: 2px solid red; */
+}
+
+body {
+    background-color: rgb(141, 123, 123);
+}
+
+li {
+    padding: 10px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: black;
+}
